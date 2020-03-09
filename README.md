@@ -26,7 +26,7 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 | Nombre               |  Sección         |  Email         |
 |:-------------------- |:--------------|:--------------|
 | Yadran Eterovic | 1 | yadran@ing.puc.cl |
-| Vicente  | 2 | vidominguez@uc.cl |
+| Vicente Dominguez | 2 | vidominguez@uc.cl |
 
 
 ### Ayudantes
