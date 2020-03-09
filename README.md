@@ -64,6 +64,69 @@ A continuación se presentan los contenidos del curso, no necesariamente en el o
       * Backtracking
 * Strings
 
+## Evaluación
+
+El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones y examen), y una parte práctica, evaluada mediante tareas de programación en C.
+
+### Evaluaciones Escritas
+
+Habrá 3 interrogaciones y un examen, donde se evaluarán los aspectos más teóricos del contenido. Las interrogaciones se darán en horario de clases. Cada interrogación tendrá 3 preguntas, de las cuales 2 serán presenciales y una será una actividad para la casa. La nota de interrogaciones será el promedio de las mejores 7 de 9 preguntas, y se promediará con el examen para calcular la nota final de evaluaciones escritas.
+
+| Evaluación | Fecha |
+|:----------|:----------|
+| I1 | 8 de abril a las 14:00 | 
+| I2 | 6 de mayo a las 14:00 |
+| I3 | 3 de junio a las 14:00 |
+| Examen | 2 de julio a las 9:00 |
+
+
+### Tareas
+
+Habrá 5 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. Las fechas serán anunciadas durante el semestre.
+
+La nota final del curso se calcula de la siguiente manera:
+
+```c++
+double nota_final()
+{
+    /* La nota de cada tarea */
+    double T0,T1,T2,T3,T4;    
+    /* La nota de cada pregunta de interrogaciones*/
+    double P1,P2,P3,P4,P5,P6,P7,P8,P9;
+    
+    /* La nota del examen */
+    double Ex;
+
+    /* Promedio de tareas */
+    double NT = (T0 + T1 + T2 + T3 + T4) / 5;
+    /* Promedio de las 10 mejores preguntas de interrogaciones */
+    double NI = top7(P1,P2,P3,P4,P5,P6,P7,P8,P9)/7;
+    
+    /* Promedio de las evaluaciones escritas: el examen vale 1/2 o 1/3 según convenga */
+    double NE;
+    if(Ex >= NI)
+    {
+        NE = (Ex + NI) / 2;
+    }
+    else
+    {
+        NE = (Ex + 2NI) / 3;
+    }
+    
+    double NF = (NT + NE) / 2;
+    
+    /* Es necesario aprobar las evaluaciones escritas y las tareas por separado para aprobar el curso */
+    if(NE < 3.7 || NF < 3.7)
+    {
+       return min(3.9, NF);
+    }
+    else
+    {
+       return min(NF, 7);
+    }
+}
+```
+
 ## Política de integridad académica
 
 Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
