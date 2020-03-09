@@ -7,13 +7,10 @@ Asegúrate de echar una mirada a la [Wiki](https://github.com/IIC2133-PUC/2020-1
 
 ## Tabla de contenidos
  * [Equipo](#equipo)
-     * [Profesor](#profesor)
+     * [Profesores](#profesores)
      * [Ayudantes](#ayudantes)
  * [Acerca del curso](#acerca-del-curso) 
  * [Contenidos](#contenidos)
- * [Evaluación](#evaluación)
-     * [Evaluaciones escritas](#evaluaciones-escritas)
-     * [Tareas](#tareas)
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
 ## Acerca del curso
@@ -24,11 +21,12 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
      
 ## Equipo
 
-### Profesor
+### Profesores
 
-| Nombre               |  Email         |
-|:-------------------- |:--------------|
-| Yadran Eterovic Solano | yadran@ing.puc.cl |
+| Nombre               |  Sección         |  Email         |
+|:-------------------- |:--------------|:--------------|
+| Yadran Eterovic | 1 | yadran@ing.puc.cl |
+| Vicente  | 2 | vidominguez@uc.cl |
 
 
 ### Ayudantes
