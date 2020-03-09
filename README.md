@@ -35,7 +35,17 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 |:--------------------- |:-------------| :---------|
 | Vicente Errázuriz | verrazuriz@uc.cl | [@vichoeq](https://www.github.com/vichoeq) |
 | Cristóbal Espinoza | caespinoza5@uc.cl | [@caespinoza5](https://www.github.com/caespinoza5) |
-
+| José Escobar | jtescobar1@uc.cl | [@JohnTrombon](https://www.github.com/JohnTrombon) |
+| Yerko Chávez | yachavez@uc.cl | [@yerkko](https://www.github.com/yerkko) |
+| Patrick Liedtke | paliedtke@uc.cl | [@Kitaps](https://www.github.com/Kitaps) |
+| Benjamín Dominguez | bidominguez@uc.cl | [@B-Dominguez](https://www.github.com/B-Dominguez) |
+| Luciano Aguilera | lbaguilera@uc.cl | [@arbiocanpion](https://www.github.com/arbiocanpion) |
+| Juan Schuwirth | jeschuwirth@uc.cl | [@jeschuwirth](https://www.github.com/jeschuwirth) |
+| Joaquín Ossandón | jiossandon@uc.cl | [@cacosandon](https://www.github.com/cacosandon) |
+| Diego Iruretagoyena | diiru@uc.cl | [@Diiru](https://www.github.com/Diiru) |
+| Nicolás Lahsen | nflahsen@uc.cl | [@NicolasLahsen](https://www.github.com/NicolasLahsen) |
+| Santiago Laguna | salaguna@uc.cl | [@santilaguna](https://www.github.com/santilaguna) |
+| Nicolás Falconi | nifalconi@uc.cl | [@nigfasa](https://www.github.com/nigfasa) |
 
 ## Contenidos
 
