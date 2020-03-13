@@ -30,7 +30,7 @@
 /* Este archivo tiene un par de experimentos que se caen intencionalmente,   */
 /* asegurate de seguir las instrucciones para entender lo que esta pasando   */
 /*                                                                           */
-/* La guia Memoria - Stack.pdf explica como funciona el STACK de memoria     */
+/* La guia Memoria.pdf explica como funciona el STACK en la segunda página   */
 /*****************************************************************************/
 
 /** Una funcion totalmente normal que recibe dos ints y entrega su suma */
