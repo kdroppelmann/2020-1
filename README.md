@@ -42,7 +42,6 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 | Luciano Aguilera | lbaguilera@uc.cl | [@arbiocanpion](https://www.github.com/arbiocanpion) |
 | Juan Schuwirth | jeschuwirth@uc.cl | [@jeschuwirth](https://www.github.com/jeschuwirth) |
 | Joaquín Ossandón | jiossandon@uc.cl | [@cacosandon](https://www.github.com/cacosandon) |
-| Diego Iruretagoyena | diiru@uc.cl | [@Diiru](https://www.github.com/Diiru) |
 | Nicolás Lahsen | nflahsen@uc.cl | [@NicolasLahsen](https://www.github.com/NicolasLahsen) |
 | Santiago Laguna | salaguna@uc.cl | [@santilaguna](https://www.github.com/santilaguna) |
 | Nicolás Falconi | nifalconi@uc.cl | [@nigfasa](https://www.github.com/nigfasa) |
